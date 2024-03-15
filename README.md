@@ -1,2 +1,2 @@
 # k8s-coreos
-A vagrant lab for coreos projects; (coreos/flatcar) container linux, flannel(.io) and (rancher) fleet
+A three node k8s cluster running on a fedora coreos Linux
